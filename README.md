@@ -3,4 +3,5 @@ The server will listen for a TCP connection from the client. Once a connection h
 
 Steps to run:
 First run the server: python3 chatServerDuplelx.py
+
 After the server is running, run the client: chatClientDuplex.py
