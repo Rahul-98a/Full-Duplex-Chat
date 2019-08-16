@@ -5,4 +5,4 @@ Steps to run:
 
 1. First run the server: python3 chatServerDuplex.py
 
-2. After the server is running, run the client: python3 chatClientDuplex.py
+2. After the server is running, run the client in a seperate terminal: python3 chatClientDuplex.py
